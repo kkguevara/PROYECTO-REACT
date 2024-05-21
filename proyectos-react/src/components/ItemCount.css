@@ -1,0 +1,23 @@
+
+.contador {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 200px;
+    margin: 10px 0;
+  }
+  
+  .contador button {
+    padding: 5px;
+    font-size: 0.7rem;
+    cursor: pointer;
+    background-color: #0056b3;
+    color: white;
+    border: none;
+    outline: none;
+    margin: 5px;
+  }
+  
+  .contador button:hover {
+    background-color: #0057b352;
+  }
